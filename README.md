@@ -19,7 +19,6 @@ A simple real-time chat application using Python socket programming.
 - Listens for incoming connections.
 - Handles multiple clients concurrently.
 - Broadcasts messages to all connected clients.
-- ...
 
 ## Client Side
 
